@@ -3,7 +3,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/maxsueldev/listaUsuarios?color=green)
 
 ## Sobre o projeto
-Requisições GET e POST para listar usuários vindo de uma API externa
+Requisições GET e POST para listar e criar novos usuários vindo de uma API externa
 <br>
 
 ### Layout Mobile First
