@@ -26,7 +26,7 @@ Requisições GET e POST para listar e criar novos usuários vindo de uma API ex
 git clone git@github.com:maxsueldev/listaDeCompras.git
 
 # json-server
-instalar o pacote npm json-server ´npm install json-server´
+instalar o pacote npm json-server ´npm install -g json-server´
 fazer com que o json-server escute a api-externa  ´npx json-server --watch db.json´
 
 # entrar na pasta do projeto e abrir o arquivo index.html ou dar um go live com a extensão Live Server
